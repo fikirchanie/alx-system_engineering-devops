@@ -1,1 +1,2 @@
-#!/bin/bash/ntouch hello
+#!/bin/bash
+ntouch hello
